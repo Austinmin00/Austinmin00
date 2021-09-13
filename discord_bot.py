@@ -46,4 +46,4 @@ async def on_message(message):
         await message.channel.send(random.choice(encouragments))
 
 
-client.run('ODY2NzkwMDkxNDUxNzkzNDM4.YPXrLQ.HlCJWwQSWTZtXkQtp4r_JEOozk8')
+client.run('')
